@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Rocher;Stéphanie;;;
+FN:Stéphanie Rocher
+ORG:BBS Finance
+TITLE:Courtière en financement professionnel et immobilier
+TEL;TYPE=CELL,VOICE:+33603439005
+EMAIL;TYPE=INTERNET,WORK:stephanie.rocher@bbs-finance.fr
+ADR;TYPE=WORK:;;5 rue Gabriel Fauré;Nice;;06000;France
+URL:https://www.bbs-finance.fr
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/st%C3%A9phanie-rocher-7196a9339
+X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/stephanie.rocher.pro/
+X-SOCIALPROFILE;TYPE=linktree:https://linktr.ee/stephanie.rocher.pro
+END:VCARD
